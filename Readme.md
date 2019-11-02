@@ -1,4 +1,4 @@
-#Ristek Calculator
+# Ristek Calculator
 
 ## Overview
 This application will calculate two numbers using the add, subtract, multiply and divide methods.
@@ -8,33 +8,33 @@ This application will calculate two numbers using the add, subtract, multiply an
 - Java 11
 
 ## Build Instruction
-#####1. Clone this repo
+##### 1. Clone this repo
 ```
 git clone https://github.com/mfnovriansyah/RistekCalculator.git
 ```
-#####2. Move to application directory
+##### 2. Move to application directory
 ```
 cd RistekCalculator
 ```
-#####3. Test Aplication
+##### 3. Test Aplication
 ```
 gradle test
 ```
-#####4. Build Application
+##### 4. Build Application
 ```
 gradle build
 ```
 
 ## How to run
-#####1. Make sure in application directory
+##### 1. Make sure in application directory
 ```
 pwd
 ```
-#####If not, Move to application directory
+##### If not, Move to application directiory
 ```
 cd RistekCalculator
 ```
-#####2. Run Application
+##### 2. Run Application
 ```
 gradle run
 ```
