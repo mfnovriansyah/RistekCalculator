@@ -30,4 +30,17 @@ class CalculatorTest {
 
         assertEquals(expected, actual);
     }
+
+    @Test
+    void multiply() {
+        Calculator calculator = new Calculator();
+        int a = 2;
+        int b = 1;
+        int excpected = 2;
+
+        int actual = calculator.multiply(a, b);
+
+        assertEquals(excpected, actual);
+    }
+
 }
